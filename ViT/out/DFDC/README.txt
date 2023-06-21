@@ -1,0 +1,1 @@
+The results of ViT model will be written here as submission_vit.csv !
