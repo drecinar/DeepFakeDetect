@@ -165,3 +165,13 @@ cython_debug/
 # Pretrained Models
 *.pth
 *.pt
+*final*
+
+# csv
+*.csv
+
+# xml 
+*.xml
+
+# iml
+*.iml
