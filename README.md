@@ -2,9 +2,12 @@
 Comparison of a few DeepFake Detection Algorithms
 
 
+## If you want to work on Jupyter Notebook check: [DeepFake Detection Comparison Notebook](DeepFake_Detection_Model_Comparison.ipynb)
+
+
 ## Downloading Data
 
-First of all, you must download the dataset, go to "data/README.txt" and download dataset from link!
+First of all, you must download the dataset, go to [README](data/README.txt) and download dataset from link!
 
 
 ## Creating Environment
@@ -21,7 +24,7 @@ pip install -r requirements.txt
 
 ## Testing Selim EfficientNet B7 (CNN)
 
-First, you need to download pretrained models: Go to "CNN/weights/README.txt"
+First, you need to download pretrained models: Go to [README](CNN/weights/README.txt)
 
 
 Then, run this script with arguments you want: 
@@ -41,7 +44,7 @@ python extract_results.py --path "./CNN/submission.csv"
 
 ## Testing Cross. ViT EfficientNet B0 (ViT)
 
-First, you need to download pretrained model: Go to "ViT/README.txt"
+First, you need to download pretrained model: go to [README](ViT/README.txt)
 
 
 Then, run this scripts to preprocess videos:
